@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "NewsXTimes",
+    "slug": "newsxtimes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/nsx-logo.png",
+    "splash": {
+      "image": "./assets/splash-main.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#DA3349"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "tarundeveloper.newsxtimes",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/nsx-logo.png",
+        "backgroundColor": "#DA3349"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
