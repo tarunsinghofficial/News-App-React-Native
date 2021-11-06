@@ -23,7 +23,7 @@
 
 # How to Contribute
 <ul>
-<li><a href="https://github.com/login?return_to=%2Ftarunsinghofficial%2FLinkedin-Learn-Clone">Fork</a> the the project</li>
+<li><a href="https://github.com/login?return_to=%2Ftarunsinghofficial%2FNewsXTimes-App">Fork</a> the the project</li>
 <li>Create your feature branch (git checkout -b my-new-feature)</li>
 <li>Make required changes and commit (git commit -am 'Add some feature')</li>
 <li>Push to the branch (git push origin my-new-feature)</li>
